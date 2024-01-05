@@ -13,7 +13,6 @@
   <img align="center" alt="Oreia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Oreia-Sass" height="30" width="40" 
 src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png">
-  <img align="center" alt="Oreia-Bootstrap" height="40" width="40" 
 src="https://img.icons8.com/?size=512&id=84710&format=png">
   <img align="center" alt="Oreia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oreia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
