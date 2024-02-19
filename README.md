@@ -1,8 +1,8 @@
-### Eu sou o Eduardo Oreia! 👋
+### Eu sou o Eduardo Batista! 👋
 
 
 - 💻 Developer Front-End 
-- 📚 Studing JavaScript
+- 📚 Studing Typescript
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oreia_eduardo/?igshid=NTc4MTIwNjQ2YQ%3D%3D&fbclid=IwAR1ZVGgDUN5qaLtfFoMPDiijdisJAm1VezouQ0cQRcNtK6_J3N_v8DsyrkM)
